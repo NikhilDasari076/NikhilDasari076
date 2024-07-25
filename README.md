@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Nikhil Dasari
-- 👀 I’m interested in DATA ANALYTICS
-- 🌱 I’m currently honing my skills in PYTHON , PowerBI and T-SQL
-- 💞️ I’m looking to collaborate on data analysis using PYTHON , Data Visualization using PowerBI and SQL querying
+👀 Passionate about Data Analytics
+🌱 Expanding my expertise in Python, Power BI and T-SQL
+💞️ Looking to collaborate on:
+    Data Analysis using Python
+    Data Visualization using Power BI
+    SQL Querying
+🚀 Aspiring Machine Learning Practitioner
 - 📫 How to reach me 
 - LinkedIn : www.linkedin.com/in/
 NIKHILDASARI-DATAANALYST
