@@ -1,12 +1,12 @@
+Hi, I’m Nikhil Dasari
 👀 Passionate about Data Analytics
-🌱 Expanding my expertise in Python, Power BI and T-SQL
+🌱 Expanding my expertise in: Python , PowerBI and T-SQL
 💞️ Looking to collaborate on:
     Data Analysis using Python
     Data Visualization using Power BI
     SQL Querying
-🚀 Aspiring Machine Learning Practitioner 
- LinkedIn : www.linkedin.com/in/nikhildasari-dataanalyst
-
+🚀 Aspiring Machine Learning Practitioner
+LinkedIn : www.linkedin.com/in/nikhildasari-dataanalyst
 
 - 
 
