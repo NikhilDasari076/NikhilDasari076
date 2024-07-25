@@ -6,8 +6,7 @@
     SQL Querying
 🚀 Aspiring Machine Learning Practitioner
 - 📫 How to reach me 
-- LinkedIn : www.linkedin.com/in/
-NIKHILDASARI-DATAANALYST
+- LinkedIn : www.linkedin.com/in/nikhildasari-dataanalyst
 
 
 - 
