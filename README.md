@@ -1,4 +1,4 @@
--Hi, I’m Nikhil Dasari
+Hi, I’m Nikhil Dasari
 -👀 Passionate about Data Analytics
 -🌱 Expanding my expertise in: Python,PowerBI and T-SQL
 -💞️ Looking to collaborate on:
