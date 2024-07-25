@@ -4,9 +4,8 @@
     Data Analysis using Python
     Data Visualization using Power BI
     SQL Querying
-🚀 Aspiring Machine Learning Practitioner
-- 📫 How to reach me 
-- LinkedIn : www.linkedin.com/in/nikhildasari-dataanalyst
+🚀 Aspiring Machine Learning Practitioner 
+ LinkedIn : www.linkedin.com/in/nikhildasari-dataanalyst
 
 
 - 
